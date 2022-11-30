@@ -1,0 +1,39 @@
+C:\Users\omarg\source\repos\soru1\soru1\obj\Debug\netcoreapp3.1\soru1.csprojAssemblyReference.cache
+C:\Users\omarg\source\repos\soru1\soru1\obj\Debug\netcoreapp3.1\soru1.AssemblyInfoInputs.cache
+C:\Users\omarg\source\repos\soru1\soru1\obj\Debug\netcoreapp3.1\soru1.AssemblyInfo.cs
+C:\Users\omarg\source\repos\soru1\soru1\obj\Debug\netcoreapp3.1\soru1.csproj.CoreCompileInputs.cache
+C:\Users\omarg\source\repos\soru1\soru1\bin\Debug\netcoreapp3.1\soru1.exe
+C:\Users\omarg\source\repos\soru1\soru1\bin\Debug\netcoreapp3.1\soru1.deps.json
+C:\Users\omarg\source\repos\soru1\soru1\bin\Debug\netcoreapp3.1\soru1.runtimeconfig.json
+C:\Users\omarg\source\repos\soru1\soru1\bin\Debug\netcoreapp3.1\soru1.runtimeconfig.dev.json
+C:\Users\omarg\source\repos\soru1\soru1\bin\Debug\netcoreapp3.1\soru1.dll
+C:\Users\omarg\source\repos\soru1\soru1\bin\Debug\netcoreapp3.1\soru1.pdb
+C:\Users\omarg\source\repos\soru1\soru1\obj\Debug\netcoreapp3.1\soru1.dll
+C:\Users\omarg\source\repos\soru1\soru1\obj\Debug\netcoreapp3.1\soru1.pdb
+C:\Users\omarg\source\repos\soru1\soru1\obj\Debug\netcoreapp3.1\soru1.genruntimeconfig.cache
+C:\Users\omarg\Desktop\soru1\soru1\bin\Debug\netcoreapp3.1\soru1.exe
+C:\Users\omarg\Desktop\soru1\soru1\bin\Debug\netcoreapp3.1\soru1.deps.json
+C:\Users\omarg\Desktop\soru1\soru1\bin\Debug\netcoreapp3.1\soru1.runtimeconfig.json
+C:\Users\omarg\Desktop\soru1\soru1\bin\Debug\netcoreapp3.1\soru1.runtimeconfig.dev.json
+C:\Users\omarg\Desktop\soru1\soru1\bin\Debug\netcoreapp3.1\soru1.dll
+C:\Users\omarg\Desktop\soru1\soru1\bin\Debug\netcoreapp3.1\soru1.pdb
+C:\Users\omarg\Desktop\soru1\soru1\obj\Debug\netcoreapp3.1\soru1.csprojAssemblyReference.cache
+C:\Users\omarg\Desktop\soru1\soru1\obj\Debug\netcoreapp3.1\soru1.AssemblyInfoInputs.cache
+C:\Users\omarg\Desktop\soru1\soru1\obj\Debug\netcoreapp3.1\soru1.AssemblyInfo.cs
+C:\Users\omarg\Desktop\soru1\soru1\obj\Debug\netcoreapp3.1\soru1.csproj.CoreCompileInputs.cache
+C:\Users\omarg\Desktop\soru1\soru1\obj\Debug\netcoreapp3.1\soru1.dll
+C:\Users\omarg\Desktop\soru1\soru1\obj\Debug\netcoreapp3.1\soru1.pdb
+C:\Users\omarg\Desktop\soru1\soru1\obj\Debug\netcoreapp3.1\soru1.genruntimeconfig.cache
+C:\Users\user\Desktop\Education\ÜNİVERSİTE HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 1.ödevi\soru 1 class\soru1\soru1\bin\Debug\netcoreapp3.1\soru1.exe
+C:\Users\user\Desktop\Education\ÜNİVERSİTE HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 1.ödevi\soru 1 class\soru1\soru1\bin\Debug\netcoreapp3.1\soru1.deps.json
+C:\Users\user\Desktop\Education\ÜNİVERSİTE HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 1.ödevi\soru 1 class\soru1\soru1\bin\Debug\netcoreapp3.1\soru1.runtimeconfig.json
+C:\Users\user\Desktop\Education\ÜNİVERSİTE HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 1.ödevi\soru 1 class\soru1\soru1\bin\Debug\netcoreapp3.1\soru1.runtimeconfig.dev.json
+C:\Users\user\Desktop\Education\ÜNİVERSİTE HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 1.ödevi\soru 1 class\soru1\soru1\bin\Debug\netcoreapp3.1\soru1.dll
+C:\Users\user\Desktop\Education\ÜNİVERSİTE HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 1.ödevi\soru 1 class\soru1\soru1\bin\Debug\netcoreapp3.1\soru1.pdb
+C:\Users\user\Desktop\Education\ÜNİVERSİTE HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 1.ödevi\soru 1 class\soru1\soru1\obj\Debug\netcoreapp3.1\soru1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Education\ÜNİVERSİTE HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 1.ödevi\soru 1 class\soru1\soru1\obj\Debug\netcoreapp3.1\soru1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Education\ÜNİVERSİTE HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 1.ödevi\soru 1 class\soru1\soru1\obj\Debug\netcoreapp3.1\soru1.AssemblyInfo.cs
+C:\Users\user\Desktop\Education\ÜNİVERSİTE HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 1.ödevi\soru 1 class\soru1\soru1\obj\Debug\netcoreapp3.1\soru1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Education\ÜNİVERSİTE HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 1.ödevi\soru 1 class\soru1\soru1\obj\Debug\netcoreapp3.1\soru1.dll
+C:\Users\user\Desktop\Education\ÜNİVERSİTE HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 1.ödevi\soru 1 class\soru1\soru1\obj\Debug\netcoreapp3.1\soru1.pdb
+C:\Users\user\Desktop\Education\ÜNİVERSİTE HERŞEY\2.DONEM\Nesneye Dayalı Programlama\ÖDEVLER ve projeler\NDP Bahar dönemi 1.ödevi\soru 1 class\soru1\soru1\obj\Debug\netcoreapp3.1\soru1.genruntimeconfig.cache

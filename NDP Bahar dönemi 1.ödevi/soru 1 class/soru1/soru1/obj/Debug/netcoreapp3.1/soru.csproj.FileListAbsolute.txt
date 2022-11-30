@@ -1,0 +1,13 @@
+C:\Users\omarg\Desktop\soru1\soru1\bin\Debug\netcoreapp3.1\soru.exe
+C:\Users\omarg\Desktop\soru1\soru1\bin\Debug\netcoreapp3.1\soru.deps.json
+C:\Users\omarg\Desktop\soru1\soru1\bin\Debug\netcoreapp3.1\soru.runtimeconfig.json
+C:\Users\omarg\Desktop\soru1\soru1\bin\Debug\netcoreapp3.1\soru.runtimeconfig.dev.json
+C:\Users\omarg\Desktop\soru1\soru1\bin\Debug\netcoreapp3.1\soru.dll
+C:\Users\omarg\Desktop\soru1\soru1\bin\Debug\netcoreapp3.1\soru.pdb
+C:\Users\omarg\Desktop\soru1\soru1\obj\Debug\netcoreapp3.1\soru.csprojAssemblyReference.cache
+C:\Users\omarg\Desktop\soru1\soru1\obj\Debug\netcoreapp3.1\soru.AssemblyInfoInputs.cache
+C:\Users\omarg\Desktop\soru1\soru1\obj\Debug\netcoreapp3.1\soru.AssemblyInfo.cs
+C:\Users\omarg\Desktop\soru1\soru1\obj\Debug\netcoreapp3.1\soru.csproj.CoreCompileInputs.cache
+C:\Users\omarg\Desktop\soru1\soru1\obj\Debug\netcoreapp3.1\soru.dll
+C:\Users\omarg\Desktop\soru1\soru1\obj\Debug\netcoreapp3.1\soru.pdb
+C:\Users\omarg\Desktop\soru1\soru1\obj\Debug\netcoreapp3.1\soru.genruntimeconfig.cache
